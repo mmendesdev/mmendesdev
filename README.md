@@ -1,10 +1,4 @@
 ### Olá!! Meu nome é Matheus Mendes, estudante de Engenharia de software 👨🏼‍💻
-
-### 🛠️ GitHub Stats
-<div>
-  <a href="https://github.com/mmendesdev">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mmendesdev&show_icons=true&theme=dark&incluse_all_commits=true&count_private=true"/>
-<div>
  
 <div> 
    <a href="https://www.linkedin.com/in/matheusmendesdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 

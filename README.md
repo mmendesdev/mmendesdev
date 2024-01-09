@@ -3,7 +3,7 @@
 ### 🛠️ GitHub Stats
 <div>
   <a href="https://github.com/mmendesdev">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Matan18&show_icons=false&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mmendesdev&show_icons=true&theme=dark&incluse_all_commits=true&count_private=true"/>
 <div>
  
 <div> 

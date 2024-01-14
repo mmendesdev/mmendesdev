@@ -15,6 +15,8 @@
   <img align="center" alt="Mendes-Java" height="30" width="40" src="https://camo.githubusercontent.com/003d42ed80a5259e46c47df38829f811560e6953374d3b9c36275bb5c0df9f5c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537072696e672d3644423333463f7374796c653d666f722d7468652d6261646765266c6f676f3d737072696e67266c6f676f436f6c6f723d7768697465">
     <img align="center" alt="Mendes-Python" height="30" width="40" src="https://camo.githubusercontent.com/b26699b50f121ded46e4f9f975eb7f48a9eb43e81582986c4b98766592576c01/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3030354338343f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465">
 
+<img align="center" alt="Mendes-Git" height="30" width="40"
+ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
   <img align="center" alt="Mendes-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Mendes-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Mendes-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

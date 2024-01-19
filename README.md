@@ -7,7 +7,11 @@
  <a href="https://discord.gg/NvKPNxTB" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
 
-
+### 🛠️ GitHub Stats
+<div>
+  <a href="https://github.com/mmendesdev">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mmendesdev&show_icons=true&theme=dark&incluse_all_commits=true&count_private=true"/>
+<div>
 
 ### Tecnologias que utilizo:
 <div style="display: inline_block"><br>

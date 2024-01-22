@@ -7,12 +7,6 @@
  <a href="https://discord.gg/NvKPNxTB" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
 
-### 🛠️ GitHub Stats
-<div>
-  <a href="https://github.com/mmendesdev">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mmendesdev&show_icons=true&theme=dark&incluse_all_commits=true&count_private=true"/>
-<div>
-
 ### Tecnologias que utilizo:
 <div style="display: inline_block"><br>
   <img align="center" alt="Mendes-Java" height="30" width="40" src="https://camo.githubusercontent.com/94255ec6b3c759a685d09b160102f6780416030ba75119a1d9d05cd1d2345e5a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d4544384230303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465">

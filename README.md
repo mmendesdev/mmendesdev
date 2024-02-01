@@ -1,4 +1,4 @@
-### Olá!! Meu nome é Matheus Mendes, estudante de Engenharia de software 👨🏼‍💻
+### Hello!! My name is Matheus Mendes, software engineering student 👨🏼‍💻
  
 <div> 
    <a href = "matheusmendessw4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -14,7 +14,7 @@
 </div>
 
  
- ### Tecnologias que utilizo:
+ ### Technologies I am currently using:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
